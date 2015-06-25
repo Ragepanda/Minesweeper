@@ -1,0 +1,32 @@
+.tile{
+	background-color: grey;
+}
+
+.flag{
+	background-color: red;
+}
+
+.safe{
+	background-color: white;
+}
+
+.loser{
+	background-color: black
+}
+
+table{
+   border-collapse:collapse;
+}
+ 
+table,th, td{
+   border: 1px solid black;
+}
+ 
+td{
+	width:30px;
+}
+
+tr{
+	height:30px;
+}
+
